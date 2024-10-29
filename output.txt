@@ -1,0 +1,21 @@
+Loading data...
+Class distribution:
+<=50K: 24719 instances
+>50K: 7841 instances
+Data loaded successfully
+Training model...
+Starting fit method
+Data size: 32560 samples, 14 features
+Found 2 unique classes
+Class 1: 7841 instances
+Class 0: 24719 instances
+Processing class 1 of 2
+Processing class 2 of 2
+Fit method completed successfully
+Model trained successfully
+
+Model Performance Metrics:
+Accuracy: 0.833968
+Precision: 0.712664
+Recall: 0.520342
+F1 Score: 0.601504
